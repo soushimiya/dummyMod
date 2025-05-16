@@ -2,7 +2,7 @@
 	"title":"Dummy Mod",
 	"description":"Dummy Modding Template for FNF' FPS Plus",
 	"contributors": [],
-	"api_version": "1.5.0",
+	"api_version": "1.6.0",
 	"mod_version": "1.0.0",
 	"license": "Apache-2.0",
 	"uid": "dummyMod"
